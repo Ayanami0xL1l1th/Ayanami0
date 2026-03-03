@@ -1,6 +1,5 @@
 name: Sync Rule-for-OCD
 
-# 每天同步，也可以手动触发
 on:
   schedule:
     - cron: '0 7 * * *'
