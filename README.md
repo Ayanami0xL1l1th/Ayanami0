@@ -4,8 +4,8 @@
 
 ### 感谢以下仓库
 
-- [Rule-for-OCD](https://github.com/peiyingyao/Rule-for-OCD) 
-- [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) 
+- [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
+- [Rule-for-OCD](https://github.com/peiyingyao/Rule-for-OCD)  
 - [Surfing](https://github.com/GitMetaio/Surfing) 
 - [Qure](https://github.com/Koolson/Qure)   
 - [Ayanami0-configs](https://github.com/Ayanami0xL1l1th/Ayanami0-configs) 
