@@ -5,7 +5,7 @@
 ## 感谢以下上游仓库
 
 - [Rule-for-OCD](https://github.com/peiyingyao/Rule-for-OCD) – 提供规则  
-- [Surfing_icon](https://github.com/GitMetaio/Surfing) – 提供图标资源  
+- [Surfing](https://github.com/GitMetaio/Surfing) – 提供图标资源  
 - [Qure](https://github.com/Koolson/Qure) – 提供图标资源  
 - [Ayanami0-configs](https://github.com/Ayanami0xL1l1th/Ayanami0-configs) – 个人配置资源  
 
