@@ -1,8 +1,8 @@
 # Ayanami0的配置,覆写,规则,图标聚合仓库
 
-本仓库收集并整理了来自以下开源仓库的资源：
+##本仓库收集并整理了来自以下开源仓库的资源：
 
-## 感谢以下上游仓库
+### 感谢以下上游仓库
 
 - [Rule-for-OCD](https://github.com/peiyingyao/Rule-for-OCD) – 提供规则  
 - [Surfing](https://github.com/GitMetaio/Surfing) – 提供图标资源  
