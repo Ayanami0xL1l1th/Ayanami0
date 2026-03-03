@@ -1,13 +1,15 @@
 # Ayanami0的配置,覆写,规则,图标聚合仓库
 
-本仓库收集并整理了来自以下开源仓库的资源：
+本仓库收集并整理了来自其他开源仓库的资源：
 
-### 感谢以下上游仓库
+### 感谢以下仓库
 
-- [Rule-for-OCD](https://github.com/peiyingyao/Rule-for-OCD) – 提供规则  
-- [Surfing](https://github.com/GitMetaio/Surfing) – 提供图标资源  
-- [Qure](https://github.com/Koolson/Qure) – 提供图标资源  
-- [Ayanami0-configs](https://github.com/Ayanami0xL1l1th/Ayanami0-configs) – 个人配置资源  
+- [Rule-for-OCD](https://github.com/peiyingyao/Rule-for-OCD) 
+- [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) 
+- [Surfing](https://github.com/GitMetaio/Surfing) 
+- [Qure](https://github.com/Koolson/Qure)   
+- [Ayanami0-configs](https://github.com/Ayanami0xL1l1th/Ayanami0-configs) 
+- 以及其他未列出仓库
 
 ## 说明
 
