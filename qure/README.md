@@ -1,1 +1,1 @@
-# QURE图标
+# [Qure图标](https://github.com/Koolson/Qure)
