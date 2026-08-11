@@ -18,7 +18,7 @@
   "config/speedtest-mode": "dashboard",
   "config/min-proxy-card-width": "225",
   "config/swipe-in-tabs": "false",
-  "config/import-settings-url": "https://raw.githubusercontent.com/Ayanamikizuna/Ayanami0/main/config/zashboard2.json",
+  "config/import-settings-url": "https://raw.githubusercontent.com/Ayanamikizuna/L1l1th/main/config/zashboard2.json",
   "config/proxy-preview-type": "dots",
   "config/use-smart-group-sort": "false",
   "config/table-width-mode": "manual",
