@@ -76,7 +76,7 @@
   "config/group-test-urls": "[]",
   "config/icon-reflect-list": "[]",
   "config/settings-page-two-columns": "true",
-  "config/speedtest-url": "http://www.apple.com/library/test/success.html",
+  "config/speedtest-url": "https://www.apple.com/library/test/success.html",
   "config/dark-theme": "custom",
   "config/quick-filter-enabled": "true",
   "config/independent-latency-test": "false",
